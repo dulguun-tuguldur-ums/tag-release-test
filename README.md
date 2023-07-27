@@ -2,3 +2,5 @@
 Test repository tag and release
 
 new update 1
+
+new update 2
